@@ -1,0 +1,12 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes
+estructurados de los ciudadanos porque esto permite que la información
+llegue de forma clara y organizada, sin depender de llamadas o formularios
+en papel que son más lentos de procesar. Cuando los datos llegan en un
+formato como JSON, con campos definidos como tipo y descripción, las
+instituciones pueden clasificarlos, priorizarlos y darles seguimiento
+mucho más fácil. Además, esto facilita construir paneles de control o
+estadísticas sobre qué problemas son más frecuentes en una comunidad.
+Una API como la que construimos en esta actividad es justamente la base
+de ese tipo de sistemas: recibe la información del ciudadano, la valida
+y la convierte en un dato que un sistema más grande puede usar para
+tomar decisiones.
